@@ -1,1 +1,5 @@
-Este portafolio utiliza un avatar con las iniciales BR. La fotografía no se incluye. Si después se agrega, puede guardarse como bryan.jpeg dentro de esta carpeta.
+ANTES DE PUBLICAR:
+1. Agrega la fotografía de Bryan con el nombre exacto andy.png.
+2. Colócala en esta misma carpeta, junto a index.html.
+3. Sube TODOS los archivos de esta carpeta directamente a la raíz del repositorio GitHub andy.
+4. No cambies los nombres styles.css ni script.js.
